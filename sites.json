@@ -1,0 +1,8 @@
+{
+  "channel_id": "YOUR_CHANNEL_ID_HERE",
+  "sites": [
+    { "name": "My Website",  "url": "https://example.com" },
+    { "name": "My API",      "url": "https://api.example.com/health" },
+    { "name": "Google",      "url": "https://google.com" }
+  ]
+}
